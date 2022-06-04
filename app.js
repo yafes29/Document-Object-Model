@@ -19,3 +19,12 @@ var wndw = document.scripts;
 
 
 console.log(wndw);
+
+// Seçiciler
+
+// document.getElementById(id): id niteliği ile eşleşen ilk kaydı getirir.
+// document.getElementsByName(name): name niteliği ile eşleşen tüm kayıtları dizi olarak  getirir.
+// document.getElementsByTagName(etiketadı):etiket adı ile eşleşen tüm kayıtları dizi olarak getirir.
+// document.getElementsByClassName(classAdı):class niteliği ile eşleşen tüm kayıtları dizi olarak getirir.
+// document.querySelector(seçici): seçici ile eşleşen ilk kaydı getirir.
+// document.querySelectorAll(seçici): seçici ile eşleşen tüm kayıtları dizi olarak getir.

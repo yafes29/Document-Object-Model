@@ -82,3 +82,20 @@
 // veri = veri[2];
 
 // console.log(veri);
+
+// Element Silme
+
+// const taskList = document.querySelector("#task-list");
+
+// taskList.remove();
+
+// taskList.childNodes[2].remove(); 
+
+
+// DOM EVENT 
+
+// Event Listener ve Event Objesi
+
+// btn.addEventListener("click" function () {
+//     console.log("butona tıklandı");
+// })

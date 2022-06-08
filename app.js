@@ -3,22 +3,22 @@
 
 
 
-console.log(window);
+// console.log(window);
 
-console.log(window.location.hostname);
+// console.log(window.location.hostname);
 
-console.log(window.innerWidth);
+// console.log(window.innerWidth);
 
-console.log(window.outerWidth);
+// console.log(window.outerWidth);
 
-let windows = document.all[3];
+// let windows = document.all[3];
 
-console.log(windows);
+// console.log(windows);
 
-var wndw = document.scripts;
+// var wndw = document.scripts;
 
 
-console.log(wndw);
+// console.log(wndw);
 
 // Seçiciler
 
@@ -30,11 +30,28 @@ console.log(wndw);
 // document.querySelectorAll(seçici): seçici ile eşleşen tüm kayıtları dizi olarak getir.
 
 
-let veri;
+// let veri;
 
-veri = window.document;
+// veri = window.document;
 
-veri = window.document.head;
-veri = window.document.URL;
+// veri = window.document.head;
+// veri = window.document.URL;
+// veri = window.document.domain;
+// veri = window.document.images;
 
-console.log(veri);
+// console.log(veri);
+
+
+
+
+
+
+// Elementlerin Seçilmesi
+
+// -- Tek Element Seçimi --
+
+// document.getElementById() metodu
+
+
+
+

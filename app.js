@@ -28,3 +28,13 @@ console.log(wndw);
 // document.getElementsByClassName(classAdı):class niteliği ile eşleşen tüm kayıtları dizi olarak getirir.
 // document.querySelector(seçici): seçici ile eşleşen ilk kaydı getirir.
 // document.querySelectorAll(seçici): seçici ile eşleşen tüm kayıtları dizi olarak getir.
+
+
+let veri;
+
+veri = window.document;
+
+veri = window.document.head;
+veri = window.document.URL;
+
+console.log(veri);

@@ -73,3 +73,12 @@
 
 // document.getElementsByClassName()
 
+// let veri;
+
+// veri = document.getElementsByClassName("list-group-item");
+
+// veri = document.getElementsByClassName("list-group-item")[0];
+
+// veri = veri[2];
+
+// console.log(veri);

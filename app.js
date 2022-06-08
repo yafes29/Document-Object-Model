@@ -54,16 +54,22 @@
 
 
 
-let veri;
+// let veri;
 
-veri = document.getElementById("header");
-veri = document.getElementById("header").id;
-veri = document.getElementById("header").className;
+// veri = document.getElementById("header");
+// veri = document.getElementById("header").id;
+// veri = document.getElementById("header").className;
 
-veri = document.getElementById("header");
-veri = veri.id;
-veri = veri.className;
+// veri = document.getElementById("header");
+// veri = veri.id;
+// veri = veri.className;
 
 
 
-console.log(veri);
+// console.log(veri);
+
+
+// -- Çoklu Element Seçimi --
+
+// document.getElementsByClassName()
+

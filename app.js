@@ -131,10 +131,13 @@
 //     e.preventDefault();
 // })
 
-document.querySelector(".tıkla").addEventListener("click",clickFunc);
+// document.querySelector(".tıkla").addEventListener("click",clickFunc);
 
-function clickFunc(e){
+// function clickFunc(e){
 
-    console.log("Butona tıkladın");
-    e.preventDefault();
-}
+//     const deger = e.target;
+//     e.preventDefault();
+//     console.log(deger);
+// }
+
+

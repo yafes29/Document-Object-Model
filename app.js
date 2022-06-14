@@ -125,8 +125,16 @@
 
 // ADDEVENLİSTENER(OLAY)
 
-document.querySelector(".tıkla").addEventListener("click",(e)=>{
+// document.querySelector(".tıkla").addEventListener("click",(e)=>{
    
+//     console.log("Butona tıkladın");
+//     e.preventDefault();
+// })
+
+document.querySelector(".tıkla").addEventListener("click",clickFunc);
+
+function clickFunc(e){
+
     console.log("Butona tıkladın");
     e.preventDefault();
-})
+}

@@ -164,3 +164,30 @@
 // })
 
 
+// LOCALSTRAGE- SESSİONSTORAGE
+
+// localStorage.setItem("isim", "fikret");
+// localStorage.setItem("yas", "40");
+// // localStorage.getItem();
+// localStorage.clear();
+
+
+// sessionStorage.setItem("isim","fikret");
+
+
+// const input = document.querySelector(".input_1");
+// const submitBtn = document.querySelector(".input_submit");
+
+// submitBtn.addEventListener("click",function(e){
+//     const inputValue = input.value;
+  
+//     // localStorage.setItem("oturum", input.value);
+  
+//     let outurumDİzisi;
+//     if(localStorage.getItem("oturum")=== null){
+//         outurumDİzisi = [];
+//     }
+    
+    
+//     e.preventDefault();
+// })

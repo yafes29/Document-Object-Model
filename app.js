@@ -141,3 +141,13 @@
 // }
 
 
+// Mouse Olayları
+
+// const btn = document.querySelector(".tıkla");
+
+// btn.addEventListener("mouseup", calıstır);
+
+// function calıstır(e){
+//     console.log(btn.type + " olay tipi");
+
+// }

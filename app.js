@@ -155,10 +155,12 @@
 
 // KLAVYE OLAYLARI (Key Event)
 
-const formElement = document.querySelector("form");
-const inputElement = document.querySelector(".input_1");
-const submitElement = document.querySelector(".input_submit");
+// const formElement = document.querySelector("form");
+// const inputElement = document.querySelector(".input_1");
+// const submitElement = document.querySelector(".input_submit");
 
-formElement.addEventListener("click",function(e){
-    console.log(e.target);
-})
+// inputElement.addEventListener("blur",function(e){
+//     console.log(e.type);
+// })
+
+

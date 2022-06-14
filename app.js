@@ -99,3 +99,25 @@
 // btn.addEventListener("click" function () {
 //     console.log("butona tıklandı");
 // })
+
+
+// CREATE ELEMENT
+
+// const liler = document.createElement("li");
+// const uller = document.createElement("ul");
+
+// liler.className = "listItem";
+// liler.id = "idItem";
+// liler.setAttribute("date", "toggle");
+// liler.appendChild(document.createTextNode("Hello World"));
+// uller.appendChild(liler);
+
+// const link = document.createElement("a");
+// link.className = "linkItem";
+// link.id = "linkId";
+// link.setAttribute("title", "tool");
+// link.innerHTML = "<span> 10 </span>"
+
+// liler.appendChild(link);
+
+// console.log(liler);

@@ -121,3 +121,7 @@
 // liler.appendChild(link);
 
 // console.log(liler);
+
+
+// ADDEVENLİSTENER(OLAY)
+

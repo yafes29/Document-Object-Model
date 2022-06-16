@@ -191,3 +191,21 @@
     
 //     e.preventDefault();
 // })
+
+
+//SetTimeout , SetInterval
+
+//SetTimeout => sadece 1 kere yuklenıyor
+// SetInterval => sürekli yükleniyor
+
+// const saat = setInterval(saatFunc,1000);
+
+// function saatFunc (){
+//     const a = new Date()
+//     const b = a.toLocaleTimeString();
+//     console.log(b);
+
+// }
+
+// console.log(saat);
+

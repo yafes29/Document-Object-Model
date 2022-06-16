@@ -203,9 +203,18 @@
 // function saatFunc (){
 //     const a = new Date()
 //     const b = a.toLocaleTimeString();
-//     console.log(b);
+//     document.body.innerHTML = b;
 
 // }
 
 // console.log(saat);
+
+
+// JavaScript Document Nesneleri & Metodları
+
+//01.Document.write();
+document.write("fikret");
+
+//02.innerHTML
+
 

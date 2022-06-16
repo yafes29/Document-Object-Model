@@ -212,9 +212,21 @@
 
 // JavaScript Document Nesneleri & Metodları
 
-//01.Document.write();
-document.write("fikret");
+// 01.Document.write();
+// document.write("fikret");
 
-//02.innerHTML
+// //02.innerHTML
+// document.body.innerHTML = "<b>Hello World</b>";
+
+// //03.İnnerText
+// document.body.innerText = "Hello World";
+
+//04.remove(), removeChild()
+// const spanNesnesi = document.querySelector(".SpanClass");
+
+// spanNesnesi.remove();
+
+
+
 
 

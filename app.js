@@ -238,6 +238,16 @@ obj.dogumgunu = function(){
 
 console.log(obj.isim);
 console.log(obj.dogumgunu());
-/*
+*/
 
+/*let bilgiler = {
+    isim : "fikret",
+    yas : 40,
+    dogumgunu : function(){
+        return "ismim " + this.isim + "yaşım : " + this.yas;
+    }
+}
 
+console.log(bilgiler.isim);
+console.log(bilgiler.dogumgunu);
+*/

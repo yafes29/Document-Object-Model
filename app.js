@@ -227,8 +227,17 @@
 // spanNesnesi.remove();
 
 
+// OBJECT NESNELER
 
+/* let obj = new Object();
+obj.isim = "fikret";
+obj.yas = 40;
+obj.dogumgunu = function(){
+    return "ismim " + this.isim + "yaşım : " + this.yas;
+}
 
-
+console.log(obj.isim);
+console.log(obj.dogumgunu());
+/*
 
 
